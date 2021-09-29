@@ -16,6 +16,7 @@
       "androidDname": "cn=myname, ou=mygroup, o=mycompany, c=mycountry",
       "androidKeystore": "certificates/android.keystore",
       "androidKeystorePassword": "mypassword",
+      "androidPackageType": "apk",
       "appPublisher": "",
       "background": "",
       "backgroundimage": "",
